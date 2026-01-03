@@ -1,4 +1,3 @@
-// Simple JS interaction
 const button = document.getElementById('clickMeBtn');
 const output = document.getElementById('output');
 
